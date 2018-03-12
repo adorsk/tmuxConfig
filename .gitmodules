@@ -1,3 +1,6 @@
 [submodule "extensions/tmux-yank"]
 	path = extensions/tmux-yank
 	url = https://github.com/tmux-plugins/tmux-yank
+[submodule "extensions/resurrect"]
+	path = extensions/resurrect
+	url = https://github.com/tmux-plugins/tmux-resurrect
